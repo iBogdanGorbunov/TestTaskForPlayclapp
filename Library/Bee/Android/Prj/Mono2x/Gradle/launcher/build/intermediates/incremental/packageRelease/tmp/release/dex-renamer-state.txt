@@ -1,0 +1,4 @@
+#Tue Oct 18 13:02:02 MSK 2022
+base.0=D\:\\GitRepos\\Test Task\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
